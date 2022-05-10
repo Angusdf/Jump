@@ -1,1 +1,1 @@
-Read me please!!
+Clean data will clean up the data from the spotify_data.csv. Once cleaned it will write normalized tables to spotify.db. Dataset_project will read from the data base and display visualisation of data. 
